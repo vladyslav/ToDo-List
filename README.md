@@ -3,7 +3,7 @@
 
 **Description:**
 Planning is not your best skill? Then this simple app will help you. Prepare a list of tasks you want to do and you will never get such problem again. ToDo List stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
-### [LIVE](https://vladyslav-vasylenko.github.io/ToDo-List/)
+### [LIVE](https://vladyslav.github.io/ToDo-List/)
 **Technologies used:**
  - HTML
  - CSS
